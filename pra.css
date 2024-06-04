@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    height: 101px;
+    background-color: #f9c349;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.point{
+    width: 800px;
+}
+a{
+    text-decoration: none;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;    
+    list-style: none;
+    justify-items: center;
+}
+.logo{
+    
+}
+.signup{
+  background-color: #FFB100;
+  border-radius: 19px;
+  height: 30px;
+  width: 140px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav2{
+    width: 790px;
+}
